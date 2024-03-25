@@ -1,0 +1,26 @@
+<annotation>
+	<folder>xiuqiu-img</folder>
+	<filename>pic80.jpeg</filename>
+	<path>/Users/rinnshi7/Documents/PycharmProjects/xiuqiu-img/pic80.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>xiuqiu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>150</ymin>
+			<xmax>499</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+</annotation>

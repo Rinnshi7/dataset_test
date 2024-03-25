@@ -1,0 +1,26 @@
+<annotation>
+	<folder>xiuqiu-img</folder>
+	<filename>pic17.jpeg</filename>
+	<path>/Users/rinnshi7/Documents/PycharmProjects/xiuqiu-img/pic17.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>xiuqiu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>36</ymin>
+			<xmax>447</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>
